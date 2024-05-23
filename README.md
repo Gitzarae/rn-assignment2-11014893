@@ -1,4 +1,4 @@
-![App.js screenshot](assets/App.js.jpg.png) 
+![App.js screenshot](assets/App.js.jpg) 
 
 ## Description:
 I created a simple react nativer app with expo, changed the default text to display my name instead and changed the background color.
